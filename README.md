@@ -1,2 +1,2 @@
-# TravelWithLayout
-travel site merged with layout-cli version
+# prototypeTravel
+prototype TravelSite built by angular 4 
